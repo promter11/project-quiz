@@ -1,0 +1,164 @@
+.result {
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 100%;
+}
+
+.left,
+.right {
+  width: 50%;
+
+  padding: 40px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.right {
+  background-color: #0f0c29;
+  color: #fff;
+}
+
+.title,
+.resultTitle {
+  position: relative;
+
+  text-align: center;
+
+  margin-bottom: 40px;
+}
+
+.title:before,
+.resultTitle:before {
+  content: "";
+
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  width: 50%;
+  height: 1px;
+
+  background-color: #0f0c29;
+}
+
+.resultTitle {
+  display: inline-block;
+}
+
+.resultTitle:before {
+  left: 0;
+  transform: translateX(0);
+
+  background-color: #fff;
+}
+
+.image {
+  width: 120px;
+  height: 120px;
+}
+
+.redirectButton,
+.repeatButton {
+  display: block;
+
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+
+  padding: 10px 20px;
+
+  border: 1px solid #fff;
+  border-radius: 4px;
+
+  outline: none;
+  cursor: pointer;
+
+  transition: all 0.25s ease-in-out;
+
+  background-color: transparent;
+  color: #fff;
+}
+
+.redirectButton {
+  margin-bottom: 20px;
+}
+
+.redirectButton:hover,
+.repeatButton:hover {
+  border: 1px solid #302b63;
+
+  background-color: #302b63;
+  color: #fff;
+}
+
+.redirectButton:hover .link {
+  color: #fff;
+}
+
+.link {
+  padding: 10px 20px;
+  margin: 0 -20px;
+
+  text-decoration: none;
+
+  transition: color 0.25s ease-in-out;
+
+  color: #fff;
+}
+
+.list {
+  list-style-type: none;
+
+  margin-bottom: 40px;
+}
+
+.item {
+  display: flex;
+
+  margin-bottom: 20px;
+}
+
+.question,
+.answer {
+  font-size: 14px;
+  font-weight: 500;
+  word-break: break-word;
+}
+
+.question {
+  width: 66.6%;
+
+  padding-right: 15px;
+}
+
+.answer {
+  width: 33.3%;
+
+  padding: 0 15px;
+}
+
+.status {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 576px) {
+  .redirectButton,
+  .repeatButton {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .left,
+  .right {
+    width: 100%;
+  }
+}

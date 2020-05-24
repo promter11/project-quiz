@@ -1,0 +1,9 @@
+.quiz {
+  display: flex;
+  flex-wrap: wrap;
+
+  max-width: 992px;
+  width: 100%;
+
+  background-color: #fff;
+}

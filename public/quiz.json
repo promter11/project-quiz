@@ -1,0 +1,398 @@
+{
+  "geography": [
+    {
+      "id": 0,
+      "title": "В каком южноамериканском городе стоит 38-метровая статуя Иисуса Христа?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Рио-де-Жанейро",
+          "isTrue": true
+        },
+        {
+          "id": 1,
+          "title": "Буэнос-Айрес",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Сантьяго",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "Бразилиа",
+          "isTrue": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Какой район Нью-Йорка находится на острове?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Бруклин",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Манхэттен",
+          "isTrue": true
+        },
+        {
+          "id": 2,
+          "title": "Куинс",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "Бронкс",
+          "isTrue": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Как называется самый большой город Китая?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Гуанджоу",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Пекин",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Ухань",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "Шанхай",
+          "isTrue": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Какой город находится рядом с самым большим озером в мире?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Якутск",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Иркутск",
+          "isTrue": true
+        },
+        {
+          "id": 2,
+          "title": "Бердск",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "Хабаровск",
+          "isTrue": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Какой город из представленных самый большой по населению?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Нью-Йорк",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Москва",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Токио",
+          "isTrue": true
+        },
+        {
+          "id": 3,
+          "title": "Лондон",
+          "isTrue": false
+        }
+      ]
+    }
+  ],
+  "music": [
+    {
+      "id": 0,
+      "title": "Какой из музыкальных инструментов является самым большим в мире?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Гитара",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Арфа",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Орган",
+          "isTrue": true
+        },
+        {
+          "id": 3,
+          "title": "Фортепиано",
+          "isTrue": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Какого из перечисленных стилей музыки не существует?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Дум",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Пилон",
+          "isTrue": true
+        },
+        {
+          "id": 2,
+          "title": "Блэк",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "Джангл",
+          "isTrue": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Какой из перечисленных темпов в музыке самый быстрый?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Престо",
+          "isTrue": true
+        },
+        {
+          "id": 1,
+          "title": "Анимато",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Виво",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "Аллегро",
+          "isTrue": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Какой из музыкальных инструментов имеет наибольшее количество струн?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Классическая гитара",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Виолончель",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Домра",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "Мандолина",
+          "isTrue": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Высокий женский голос – это...?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Альт",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Тенор",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Сопрано",
+          "isTrue": true
+        },
+        {
+          "id": 3,
+          "title": "Контральто",
+          "isTrue": false
+        }
+      ]
+    }
+  ],
+  "psychology": [
+    {
+      "id": 0,
+      "title": "Что является предметом психологии как науки?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Сознание",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Поведение",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Душа",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "Психика",
+          "isTrue": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Интроспекция - это термин для обозначения метода...",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Лабораторного эксперимента",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Самонаблюдения",
+          "isTrue": true
+        },
+        {
+          "id": 2,
+          "title": "Проективных тестов",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "Тестирования отдельных психических функций",
+          "isTrue": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Как называется способность к научению путем формирования условных рефлексов?",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Эйдетическая память",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Генетическая память",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Механическая память",
+          "isTrue": true
+        },
+        {
+          "id": 3,
+          "title": "Логическая память",
+          "isTrue": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Норма объема внимания для человека составляет",
+      "answers": [
+        {
+          "id": 0,
+          "title": "5-9 объектов",
+          "isTrue": true
+        },
+        {
+          "id": 1,
+          "title": "3-5 объектов, воспринятых одновременно",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "5-7 объектов",
+          "isTrue": false
+        },
+        {
+          "id": 3,
+          "title": "9-11 объектов",
+          "isTrue": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Назовите автора гуморальной теории темперамента",
+      "answers": [
+        {
+          "id": 0,
+          "title": "Леонгард",
+          "isTrue": false
+        },
+        {
+          "id": 1,
+          "title": "Э. Кречмер",
+          "isTrue": false
+        },
+        {
+          "id": 2,
+          "title": "Гиппократ",
+          "isTrue": true
+        },
+        {
+          "id": 3,
+          "title": "И. П. Павлов",
+          "isTrue": false
+        }
+      ]
+    }
+  ]
+}
